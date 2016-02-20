@@ -1,0 +1,14 @@
+layout_spectrum: 0.9511278
+color:
+  saturation: 0.7846402
+  brandStrength: 0.1378815
+  lightness: 0.7728249
+  brandColors:
+    - '#030000'
+    - '#5C0302'
+    - '#D8391E'
+    - '#F2914B'
+    - '#FB9103'
+  rhythmicContrast: 0.5171858
+typography_spectrum: 0.6611174
+name: PMC WaRP
